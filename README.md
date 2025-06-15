@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutik1711&label=Profile%20views&color=0e75b6&style=flat" alt="shrutik1711" /> </p>
 
-- 🌱 I’m currently learning **DSA, CORE JAVA, SQL**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **JAVA, C++**
+- 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **Shrutiknandeshwar@gmail.com**
 
