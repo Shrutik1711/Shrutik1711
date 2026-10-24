@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=shrutik1711&label=Profile%20views&color=0e75b6&style=flat" alt="shrutik1711" />
 </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Backend Developer**
 
 - 💬 Ask me about **PYTHON**
 
